@@ -1,5 +1,7 @@
+import NameDisplay from "./components/NameDisplay";
+
 function App() {
-  return <></>;
+  return <NameDisplay name="Yuna Hu"></NameDisplay>;
 }
 
 export default App;
